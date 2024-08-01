@@ -1,4 +1,4 @@
-# Copyright (C) 2018 The LineageOS Project
+# Copyright (C) 2024 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -21,9 +21,11 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gts210velte/proprietary/etc/data/netmgr_config.xml:system/etc/data/netmgr_config.xml \
     vendor/samsung/gts210velte/proprietary/etc/data/qmi_config.xml:system/etc/data/qmi_config.xml \
     vendor/samsung/gts210velte/proprietary/lib/libfloatingfeature.so:system/lib/libfloatingfeature.so \
+    vendor/samsung/gts210velte/proprietary/vendor/lib/libprotobuf-cpp-full-v24.so:system/vendor/lib/libprotobuf-cpp-full-v24.so \
     vendor/samsung/gts210velte/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/gts210velte/proprietary/lib64/hw/sensors.msm8952.so:system/lib64/hw/sensors.msm8952.so \
     vendor/samsung/gts210velte/proprietary/lib64/libfloatingfeature.so:system/lib64/libfloatingfeature.so \
+    vendor/samsung/gts210velte/proprietary/vendor/lib64/libprotobuf-cpp-full-v24.so:system/vendor/lib64/libprotobuf-cpp-full-v24.so \
     vendor/samsung/gts210velte/proprietary/lib64/libsec-ril.so:system/lib64/libsec-ril.so \
     vendor/samsung/gts210velte/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
     vendor/samsung/gts210velte/proprietary/vendor/lib/libnetmgr.so:system/vendor/lib/libnetmgr.so \
@@ -34,7 +36,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gts210velte/proprietary/vendor/lib64/libcneapiclient.so:system/vendor/lib64/libcneapiclient.so \
     vendor/samsung/gts210velte/proprietary/vendor/lib64/libconfigdb.so:system/vendor/lib64/libconfigdb.so \
     vendor/samsung/gts210velte/proprietary/vendor/lib64/libnetmgr.so:system/vendor/lib64/libnetmgr.so \
-    vendor/samsung/gts210velte/proprietary/vendor/lib64/libprotobuf-cpp-N.so:system/vendor/lib64/libprotobuf-cpp-N.so \
     vendor/samsung/gts210velte/proprietary/vendor/lib64/libril-qcril-hook-oem.so:system/vendor/lib64/libril-qcril-hook-oem.so \
     vendor/samsung/gts210velte/proprietary/vendor/lib64/libsensor1.so:system/vendor/lib64/libsensor1.so \
     vendor/samsung/gts210velte/proprietary/vendor/lib64/libsystem_health_mon.so:system/vendor/lib64/libsystem_health_mon.so \
