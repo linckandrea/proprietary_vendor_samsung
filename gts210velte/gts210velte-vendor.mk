@@ -21,11 +21,12 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gts210velte/proprietary/etc/data/netmgr_config.xml:system/etc/data/netmgr_config.xml \
     vendor/samsung/gts210velte/proprietary/etc/data/qmi_config.xml:system/etc/data/qmi_config.xml \
     vendor/samsung/gts210velte/proprietary/lib/libfloatingfeature.so:system/lib/libfloatingfeature.so \
-    vendor/samsung/gts210velte/proprietary/vendor/lib/libprotobuf-cpp-full-v24.so:system/vendor/lib/libprotobuf-cpp-full-v24.so \
+    vendor/samsung/gts210velte/proprietary/vendor/lib/libprotobuf-cpp-haxx.so:system/vendor/lib/libprotobuf-cpp-haxx.so \
     vendor/samsung/gts210velte/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/gts210velte/proprietary/lib64/hw/sensors.msm8952.so:system/lib64/hw/sensors.msm8952.so \
     vendor/samsung/gts210velte/proprietary/lib64/libfloatingfeature.so:system/lib64/libfloatingfeature.so \
-    vendor/samsung/gts210velte/proprietary/vendor/lib64/libprotobuf-cpp-full-v24.so:system/vendor/lib64/libprotobuf-cpp-full-v24.so \
+    vendor/samsung/gts210velte/proprietary/vendor/lib64/libprotobuf-cpp-haxx.so:system/vendor/lib64/libprotobuf-cpp-haxx.so \
+    vendor/samsung/gts210velte/proprietary/lib64/libprotobuf-cpp-lhax.so:system/lib64/libprotobuf-cpp-lhax.so \
     vendor/samsung/gts210velte/proprietary/lib64/libsec-ril.so:system/lib64/libsec-ril.so \
     vendor/samsung/gts210velte/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
     vendor/samsung/gts210velte/proprietary/vendor/lib/libnetmgr.so:system/vendor/lib/libnetmgr.so \
