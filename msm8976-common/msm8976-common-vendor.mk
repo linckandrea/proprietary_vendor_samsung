@@ -1,4 +1,4 @@
-# Copyright (C) 2018 The LineageOS Project
+# Copyright (C) 2024 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -26,7 +26,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/msm8976-common/proprietary/vendor/bin/qseecomd:system/vendor/bin/qseecomd \
     vendor/samsung/msm8976-common/proprietary/vendor/bin/rmt_storage:system/vendor/bin/rmt_storage \
     vendor/samsung/msm8976-common/proprietary/vendor/bin/tftp_server:system/vendor/bin/tftp_server \
-    vendor/samsung/msm8976-common/proprietary/vendor/bin/wcnss_filter:system/vendor/bin/wcnss_filter \
     vendor/samsung/msm8976-common/proprietary/vendor/bin/xtwifi-client:system/vendor/bin/xtwifi-client \
     vendor/samsung/msm8976-common/proprietary/vendor/bin/xtwifi-inet-agent:system/vendor/bin/xtwifi-inet-agent \
     vendor/samsung/msm8976-common/proprietary/etc/Bluetooth_cal.acdb:system/etc/Bluetooth_cal.acdb \
@@ -94,6 +93,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/msm8976-common/proprietary/lib64/libsynaFpSensorTestNwd.so:system/lib64/libsynaFpSensorTestNwd.so \
     vendor/samsung/msm8976-common/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
     vendor/samsung/msm8976-common/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
+    vendor/samsung/msm8976-common/proprietary/vendor/bin/wcnss_filter:system/vendor/bin/wcnss_filter \
     vendor/samsung/msm8976-common/proprietary/vendor/lib/egl/eglSubDriverAndroid.so:system/vendor/lib/egl/eglSubDriverAndroid.so \
     vendor/samsung/msm8976-common/proprietary/vendor/lib/egl/libEGL_adreno.so:system/vendor/lib/egl/libEGL_adreno.so \
     vendor/samsung/msm8976-common/proprietary/vendor/lib/egl/libGLESv1_CM_adreno.so:system/vendor/lib/egl/libGLESv1_CM_adreno.so \
