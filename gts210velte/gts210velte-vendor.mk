@@ -29,10 +29,12 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gts210velte/proprietary/vendor/lib64/libprotobuf-cpp-haxx.so:system/vendor/lib64/libprotobuf-cpp-haxx.so \
     vendor/samsung/gts210velte/proprietary/lib64/libprotobuf-cpp-lhax.so:system/lib64/libprotobuf-cpp-lhax.so \
     vendor/samsung/gts210velte/proprietary/lib64/libsec-ril.so:system/lib64/libsec-ril.so \
+    vendor/samsung/gts210velte/proprietary/vendor/lib64/libqdi.so:system/vendor/lib64/libqdi.so \
     vendor/samsung/gts210velte/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
     vendor/samsung/gts210velte/proprietary/vendor/lib/libdsi_netctrl.so:system/vendor/lib/libdsi_netctrl.so \
     vendor/samsung/gts210velte/proprietary/vendor/lib/libnetmgr.so:system/vendor/lib/libnetmgr.so \
     vendor/samsung/gts210velte/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
+    vendor/samsung/gts210velte/proprietary/vendor/lib/libqdi.so:system/vendor/lib/libqdi.so \
     vendor/samsung/gts210velte/proprietary/vendor/lib/libsensor1.so:system/vendor/lib/libsensor1.so \
     vendor/samsung/gts210velte/proprietary/vendor/lib/libsystem_health_mon.so:system/vendor/lib/libsystem_health_mon.so \
     vendor/samsung/gts210velte/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
