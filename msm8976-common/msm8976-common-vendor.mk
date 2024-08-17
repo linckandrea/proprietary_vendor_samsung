@@ -37,9 +37,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/msm8976-common/proprietary/etc/P08QL_s5k4h5yc_module_info.xml:system/etc/P08QL_s5k4h5yc_module_info.xml \
     vendor/samsung/msm8976-common/proprietary/etc/Q08QL_s5k4h5yc_module_info.xml:system/etc/Q08QL_s5k4h5yc_module_info.xml \
     vendor/samsung/msm8976-common/proprietary/etc/Speaker_cal.acdb:system/etc/Speaker_cal.acdb \
-    vendor/samsung/msm8976-common/proprietary/etc/camera/msm8976_camera_tabs2.xml:system/etc/camera/msm8976_camera_tabs2.xml \
-    vendor/samsung/msm8976-common/proprietary/etc/camera/s5k4h5yc_dw9807_chromatix.xml:system/etc/camera/s5k4h5yc_dw9807_chromatix.xml \
-    vendor/samsung/msm8976-common/proprietary/etc/camera/s5k6b2yx_chromatix.xml:system/etc/camera/s5k6b2yx_chromatix.xml \
+    vendor/samsung/msm8976-common/proprietary/vendor/etc/camera/msm8976_camera_tabs2.xml:system/vendor/etc/camera/msm8976_camera_tabs2.xml \
+    vendor/samsung/msm8976-common/proprietary/vendor/etc/camera/s5k4h5yc_dw9807_chromatix.xml:system/vendor/etc/camera/s5k4h5yc_dw9807_chromatix.xml \
+    vendor/samsung/msm8976-common/proprietary/vendor/etc/camera/s5k6b2yx_chromatix.xml:system/vendor/etc/camera/s5k6b2yx_chromatix.xml \
     vendor/samsung/msm8976-common/proprietary/etc/firmware/a530_pfp.fw:system/etc/firmware/a530_pfp.fw \
     vendor/samsung/msm8976-common/proprietary/etc/firmware/a530_pm4.fw:system/etc/firmware/a530_pm4.fw \
     vendor/samsung/msm8976-common/proprietary/etc/firmware/bdwlan30.bin:system/etc/firmware/bdwlan30.bin \
