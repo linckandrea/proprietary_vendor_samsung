@@ -28,7 +28,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gts210velte/proprietary/lib64/libfloatingfeature.so:system/lib64/libfloatingfeature.so \
     vendor/samsung/gts210velte/proprietary/vendor/lib64/libprotobuf-cpp-haxx.so:system/vendor/lib64/libprotobuf-cpp-haxx.so \
     vendor/samsung/gts210velte/proprietary/lib64/libprotobuf-cpp-lhax.so:system/lib64/libprotobuf-cpp-lhax.so \
-    vendor/samsung/gts210velte/proprietary/lib64/libsec-ril.so:system/lib64/libsec-ril.so \
+    vendor/samsung/gts210velte/proprietary/lib64/libsec-ril.so:system/vendor/lib64/libsec-ril.so \
     vendor/samsung/gts210velte/proprietary/vendor/lib64/libqdi.so:system/vendor/lib64/libqdi.so \
     vendor/samsung/gts210velte/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
     vendor/samsung/gts210velte/proprietary/vendor/lib/libdsi_netctrl.so:system/vendor/lib/libdsi_netctrl.so \
