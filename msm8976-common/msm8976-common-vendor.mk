@@ -71,6 +71,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/msm8976-common/proprietary/lib/libsynaFpSensorTestNwd.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libsynaFpSensorTestNwd.so \
     vendor/samsung/msm8976-common/proprietary/lib/libvpplibrary.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libvpplibrary.so \
     vendor/samsung/msm8976-common/proprietary/lib64/hw/gps.default.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/hw/gps.default.so \
+    vendor/samsung/msm8976-common/proprietary/lib64/libaptXHD_encoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libaptXHD_encoder.so \
+    vendor/samsung/msm8976-common/proprietary/lib64/libaptX_encoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libaptX_encoder.so \
     vendor/samsung/msm8976-common/proprietary/lib64/libbauthserver.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libbauthserver.so \
     vendor/samsung/msm8976-common/proprietary/lib64/libbauthtzcommon.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libbauthtzcommon.so \
     vendor/samsung/msm8976-common/proprietary/lib64/libegis_fp_normal_sensor_test.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libegis_fp_normal_sensor_test.so \
