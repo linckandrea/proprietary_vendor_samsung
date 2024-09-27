@@ -30,20 +30,20 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/msm8976-common/proprietary/vendor/etc/camera/msm8976_camera_tabs2.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/msm8976_camera_tabs2.xml \
     vendor/samsung/msm8976-common/proprietary/vendor/etc/camera/s5k4h5yc_dw9807_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k4h5yc_dw9807_chromatix.xml \
     vendor/samsung/msm8976-common/proprietary/vendor/etc/camera/s5k6b2yx_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k6b2yx_chromatix.xml \
-    vendor/samsung/msm8976-common/proprietary/etc/firmware/a530_pfp.fw:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/a530_pfp.fw \
-    vendor/samsung/msm8976-common/proprietary/etc/firmware/a530_pm4.fw:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/a530_pm4.fw \
+    vendor/samsung/msm8976-common/proprietary/vendor/firmware/a530_pfp.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a530_pfp.fw \
+    vendor/samsung/msm8976-common/proprietary/vendor/firmware/a530_pm4.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a530_pm4.fw \
     vendor/samsung/msm8976-common/proprietary/etc/firmware/bdwlan30.bin:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/bdwlan30.bin \
     vendor/samsung/msm8976-common/proprietary/etc/firmware/bdwlan30_R01.bin:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/bdwlan30_R01.bin \
     vendor/samsung/msm8976-common/proprietary/etc/firmware/btfw32.tlv:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/btfw32.tlv \
     vendor/samsung/msm8976-common/proprietary/etc/firmware/btnv32.bin:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/btnv32.bin \
-    vendor/samsung/msm8976-common/proprietary/etc/firmware/cpp_firmware_v1_10_0.fw:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/cpp_firmware_v1_10_0.fw \
-    vendor/samsung/msm8976-common/proprietary/etc/firmware/cpp_firmware_v1_1_1.fw:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/cpp_firmware_v1_1_1.fw \
-    vendor/samsung/msm8976-common/proprietary/etc/firmware/cpp_firmware_v1_1_6.fw:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/cpp_firmware_v1_1_6.fw \
-    vendor/samsung/msm8976-common/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/cpp_firmware_v1_2_0.fw \
-    vendor/samsung/msm8976-common/proprietary/etc/firmware/cpp_firmware_v1_4_0.fw:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/cpp_firmware_v1_4_0.fw \
-    vendor/samsung/msm8976-common/proprietary/etc/firmware/cpp_firmware_v1_5_0.fw:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/cpp_firmware_v1_5_0.fw \
-    vendor/samsung/msm8976-common/proprietary/etc/firmware/cpp_firmware_v1_6_0.fw:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/cpp_firmware_v1_6_0.fw \
-    vendor/samsung/msm8976-common/proprietary/etc/firmware/cpp_firmware_v1_8_0.fw:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/cpp_firmware_v1_8_0.fw \
+    vendor/samsung/msm8976-common/proprietary/vendor/firmware/cpp_firmware_v1_10_0.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/cpp_firmware_v1_10_0.fw \
+    vendor/samsung/msm8976-common/proprietary/vendor/firmware/cpp_firmware_v1_1_1.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/cpp_firmware_v1_1_1.fw \
+    vendor/samsung/msm8976-common/proprietary/vendor/firmware/cpp_firmware_v1_1_6.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/cpp_firmware_v1_1_6.fw \
+    vendor/samsung/msm8976-common/proprietary/vendor/firmware/cpp_firmware_v1_2_0.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/cpp_firmware_v1_2_0.fw \
+    vendor/samsung/msm8976-common/proprietary/vendor/firmware/cpp_firmware_v1_4_0.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/cpp_firmware_v1_4_0.fw \
+    vendor/samsung/msm8976-common/proprietary/vendor/firmware/cpp_firmware_v1_5_0.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/cpp_firmware_v1_5_0.fw \
+    vendor/samsung/msm8976-common/proprietary/vendor/firmware/cpp_firmware_v1_6_0.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/cpp_firmware_v1_6_0.fw \
+    vendor/samsung/msm8976-common/proprietary/vendor/firmware/cpp_firmware_v1_8_0.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/cpp_firmware_v1_8_0.fw \
     vendor/samsung/msm8976-common/proprietary/etc/firmware/ois_SE_BU24219.bin:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/ois_SE_BU24219.bin \
     vendor/samsung/msm8976-common/proprietary/etc/firmware/ois_SP_BU24219.bin:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/ois_SP_BU24219.bin \
     vendor/samsung/msm8976-common/proprietary/etc/firmware/ois_VE_BU24219.bin:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/ois_VE_BU24219.bin \
